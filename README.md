@@ -1,5 +1,5 @@
 
-# [Update2-Portfolio]
-# [Bootstrap - Templates]
+# Update2-Portfolio
+Bootstrap - Templates
 
 
